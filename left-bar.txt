@@ -1,0 +1,169 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+<link rel="stylesheet" href="style.css"/>
+<script src="https://kit.fontawesome.com/29a00776d0.js" crossorigin="anonymous"></script>
+    <body>
+<div class="container">
+    <div class="nav-bar">
+            <div class="icons">
+                    <ul>
+                        <li><i class="fab fa-facebook-f"></i></li>
+                        <li><i class="fab fa-twitter"></i></li>
+                        <li><i class="fab fa-google-plus-g"></i></li>
+                        <li><i class="fab fa-instagram"></i></li>
+                        <li><i class="fas fa-futbol"></i></li>
+                    </ul>
+                </div>
+        <div class="logo"><img src="logo.png" alt=""></div>
+        <div class="nav">
+            <ul class="ull">
+                <li class="lii" style="color:white;background:#7F4DFF" href="">home
+                        <ul class="all home">
+                        <li><a href="c-home.html">creative home</a></li>
+                        <li><a href="d-home.html">designer home</a></li>
+                        <li><a href="p-home.html">portfolio home</a></li>
+                        <li><a href="pa-home.html">parallax home</a></li>
+                    </ul>
+                </li>
+                <li class="lii"><div class="click">about</div>
+                    <ul class="all about">
+                            <li><a href="about.html">about us</a></li>
+                    </ul>
+                </li>
+                <li class="lii">portfolio
+                    <ul class="all portfolio">
+                    <li><a href="">portfolio leftbar</a></li>
+                    <li><a href="">portfolio rightbar</a></li>
+                    <li><a href="">portfolio centered</a></li>
+                    <li><a href="">portfolio slide</a></li>
+                    </ul>
+                </li>
+                <li class="lii">blog
+                        <ul class="all blog">
+                                <li><a href="">portfolio sidebar</a></li>
+                                <li><a href="">portfolio grid</a></li>
+                                <li><a href="">portfolio list</a></li>
+                                </ul>
+                </li>
+                <li class="lii">contact us
+                       <ul class="all contact">
+                                <li><a href="">contact us</a></li>
+                                </ul>                        
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header5">
+            <h1>about us</h1>
+            <div class="circle6"></div>
+    </div>
+    <div class="showcase5">
+        <div class="text">
+            <h1>we create<br/> design & technology</h1>
+            <div class="line"></div>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                 Aspernatur, exercitationem aperiam quia placeat accusantium
+                  quos, quod aut consectetur doloribus quaerat cupiditate enim
+                   consequuntur veniam veritatis ipsum labore voluptatibus.
+                Nulla, velit<br/> incidunt. Dicta, non sequi! Voluptate?</p>
+                <h2>mission</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    Quos corporis,<br/> architecto eos porro ipsum maxime.</p>
+                    <h2>vision</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    Quos corporis,<br/> architecto eos porro ipsum maxime.</p>
+                    <h2>value</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                     Quos corporis,<br/> architecto eos porro ipsum maxime.</p>
+
+        </div>
+        <div class="tv">
+            <img class="one" src="circle-one.png" alt="">
+            <img class="two" src="mokeup.png" alt="">
+        </div>
+        </div>
+</div>
+<div class="team">
+<h1>our team</h1>
+<div class="line2"></div>
+<div class="team-img">
+    <div class="img"><img src="team-1.jpg" alt="">
+        <div class="clip">
+            <h2>John Carolin</h2>
+            <p>Designer</p>
+            <ul>
+         <li> <i class="fab fa-facebook-f"></i></li>   
+         <li><i class="fab fa-google-plus-g"></i></li>
+         <li><i class="fab fa-twitter"></i></li>    
+            </ul>
+        </div></div>
+    <div class="img"><img src="team-2.jpg" alt="">
+        <div class="clip">
+                <h2>John Carolin</h2>
+                <p>Designer</p>
+                <ul>
+             <li> <i class="fab fa-facebook-f"></i></li>   
+             <li><i class="fab fa-google-plus-g"></i></li>
+             <li><i class="fab fa-twitter"></i></li>    
+                </ul>
+        </div></div>
+    <div class="img"><img src="team-3.jpg" alt="">
+        <div class="clip">
+                <h2>John Carolin</h2>
+                <p>Designer</p>
+                <ul>
+             <li> <i class="fab fa-facebook-f"></i></li>   
+             <li><i class="fab fa-google-plus-g"></i></li>
+             <li><i class="fab fa-twitter"></i></li>    
+                </ul>
+        </div></div>
+</div>
+</div>
+<div class="wrapper">
+<input type="radio" name="radio" id="btn1" class="button1">
+<label for="btn1" class="label label1"><</label>
+<input type="radio" name="radio" id="btn2" class="button2">
+<label for="btn2" class="label label2">></label>
+<div class="slider">
+<img src="author-1.jpg" alt="">
+<p>Leverage agile freameworks to provide a robust synopsis for high level
+    overviews.Iterative approaches<br/>to corporate strategy
+    faster collaborative thinking to furter the overall
+</p>
+<h2>john doue</h2>
+<p1>designer</p1>
+</div>
+        <div class="slider slider1">
+        <img src="author-1.jpg" alt="">
+        <p>Leverage agile freameworks to provide a robust synopsis for high level
+            overviews.Iterative approaches<br/>to corporate strategy
+            faster collaborative thinking to furter the overall
+        </p>
+        <h2>john doue</h2>
+        <p1>designer</p1>
+        </div>
+</div>
+ <div class="slide">
+.<img src="2.jpg" alt="">
+<img src="3.jpg" alt="">
+<img src="4.jpg" alt="">
+<img src="1.jpg" alt="">
+</div>
+<div class="footer">
+        <img src="logo.png" alt="">
+        <p>@ Copyright 2019 Limerick.All Rights Reserved</p>
+        <div class="icons">
+                <ul>
+                    <li><i class="fab fa-facebook-f"></i></li>
+                    <li><i class="fab fa-twitter"></i></li>
+                    <li><i class="fab fa-google-plus-g"></i></li>
+                    <li><i class="fab fa-instagram"></i></li>
+                    <li><i class="fas fa-futbol"></i></li>
+                </ul>
+            </div>
+
+</div>
+    </body>
+</html>
